@@ -5,7 +5,7 @@ Description:
   Ankusha is a program developed to read your mind. You are supposed to keep a movie in your mind, and then answer a set of questions. Ankusha finally guesses it after five questions. If the case fails, the guess is done for the next five questions. The iteration goe on up to a maximum of twenty one questions.
   
 Installation:
-  Since this is a Python built program, please run it using Python 3.7 or higher, and make sure PIL and pygame modules are installed (<pip install pillow> for PIL <pip install pygame> for pygame).
+  Since this is a Python built program, please run it using Python 3.7 or higher, and make sure PIL and pygame modules are installed ('pip install pillow' for PIL 'pip install pygame' for pygame).
   
 Usage:
   1. Download all the files in one .zip file, extract it and place it anywhere on your computer.
