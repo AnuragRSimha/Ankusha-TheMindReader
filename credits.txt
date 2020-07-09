@@ -1,0 +1,10 @@
+Ankusha, is an application built for entertainment purposes. 
+This app is created by Anurag.R.Simha.
+Ankusha tries guessing which movie you thought of, by placing
+a set of questions.
+Made in Karnataka.
+Graphic, character and art, designed by Anurag.R.Simha
+A product of Black Soil Technology.
+
+Jai Karnataka!!
+Jai Kannada!!

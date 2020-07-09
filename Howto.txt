@@ -1,0 +1,11 @@
+Ankusha asks you a question every time. There are 'Yes' and 'No' buttons
+provided. Questions are asked from the story of the movie. Click on
+either of the buttons, honestly. If the question matches a part of the
+movie's story, click 'Yes' or, click 'No'. Ankusha makes a guess after five
+questions and confirms with you. If it is the movie you thought of, click on
+'Yes' and then press any key on your keyboard to exit. If you click on 'No',
+Ankusha goes on continuing for a next set of five questions. This goes on
+upto twenty one questions only. Then, you are asked to enter the movie's
+name you thought of. End the movie name with an underscore (_).
+Finally, press any key on your keyboard to exit. Click 'Q' on your
+keyboard to exit.
